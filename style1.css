@@ -1,0 +1,138 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: aliceblue;
+    margin: 2% 5%;
+}
+
+/* for web pages containing books with bootstrap carousel */
+.maindivision {
+    display: flex;
+}
+
+.maindivision .leftdivision {
+    width: 30%;
+    margin: 15px;
+}
+
+.maindivision .rightdivision {
+    width: 70%;
+}
+
+/* Buy Button */
+.buy-button {
+    color: black;
+    background-color: rgb(254, 254, 120);
+    box-shadow: 0px 3px 10px 0px black;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 30px;
+}
+
+.buy-button:hover {
+    color: cornflowerblue;
+}
+
+.buying-price {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/* CSS3 Transforms */
+.bg-main2 {
+    margin: 20px;
+    transition: 0.8s;
+}
+
+.bg-main2:hover {
+    transform: scale(1.05);
+    transition: 0.8s;
+}
+
+/* carousel nav bar */
+.carousel .slide .carousel-control-next,
+.carousel .slide .carousel-control-prev {
+    color: black;
+}
+
+.owl-carousel .owl-nav {
+    text-align: center;
+}
+
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel .owl-nav button.owl-next {
+    font-size: 70px;
+}
+
+
+/* Footer */
+.footer {
+    display: flex;
+    background-color: rgb(222, 255, 245);
+    padding: 5px;
+}
+
+.footer .icon {
+    font-size: 30px;
+    padding: 5px;
+}
+
+.footer-1,
+.footer-2,
+.footer-3 {
+    width: 33%;
+    text-align: center;
+    margin: 10px;
+}
+
+.footer-1 a,
+.footer-2 a,
+.footer-3 a {
+    color: black;
+}
+
+.footer-1 a:hover,
+.footer-2 a:hover,
+.footer-3 a:hover {
+    color: blue;
+}
+
+/* Modal */
+
+.modal {
+    display: block;
+    visibility: visible;
+}
+
+/* Hidden */
+.hidden {
+    display: none;
+}
+
+/* Blur */
+.blur {
+    filter: blur(2px);
+}
+
+/* Submit */
+.modal .btn-submit {
+    margin: 10px 150px 10px 150px;
+    padding: 0px 40px;
+}
+
+/* Errorname */
+#errorname,
+#erroremail,
+#errornumber,
+#errorpassword,
+#errorcpassword {
+    font-size: 10px;
+    color: red;
+}
