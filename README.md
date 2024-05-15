@@ -10,11 +10,10 @@ google sheets<br /> 7. Form validation using javascript<br />
 As of now, it is just made up of HTML, CSS, Bootstrap and Javascript. I'll
 later add new functionalities in it like: <br /> 1. More attractive and user-friendly UI<br /> 2. Data collection using MongoDB<br /> 3. Dynamically adding new books in the front page<br /> 4. Dynamically creating the products pages of each book <br /> 5. Using React's components structure to reduce work in manually making
 multiple web pages<br /> 6. Enhanced payment options using GPay, PayTM, RazorPay.<br /> 7. Blogs Section containing my blogs on web development and programming<br />
-<br />
-...and a lot more!<br />
+...and a lot more!<br /><br />
 
 Let's see how long does it takes. Hopefully, I resume this project as soon as possible and update it here!<br />
 
-Till then, bye bye!<br />
+Till then, bye bye! 👋<br />
 
-Have a great life!!<br />
+Have a great life!! 😀<br />
