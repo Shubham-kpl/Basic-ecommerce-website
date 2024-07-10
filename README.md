@@ -1,10 +1,15 @@
-<a href = 'https://shubham-kpl.github.io/Basic-Website-2/' target='_blank'>Gihub pages deployment link</a>
+<a href = 'https://shubham-kpl.github.io/Basic-Website-2/' target='_blank'>Github pages deployment link</a>
 
 <h2>About this project</h2>
 
 During an online practical training in my first year, I created this basic ecommerce website having:<br /> 1. an attractive front page<br /> 2. books divided into multiple categories<br /> 3. bootstrap carousel to display books<br /> 4. dedicated products page for each book<br /> 5. Buy now button that redirects user to address page<br /> 6. Address page with HTML form that collects user's address and stores in
 google sheets<br /> 7. Form validation using javascript<br />
 <br />
+
+<h2>How it looks like</h2>
+<img src="images/project-picture-1.png">
+<img src="images/project-picture-2.png">
+<img src="images/project-picture-3.png">
 
 <h3> What's next </h3>
 As of now, it is just made up of HTML, CSS, Bootstrap and Javascript. I'll
