@@ -7,9 +7,9 @@ google sheets<br /> 7. Form validation using javascript<br />
 <br />
 
 <h2>How it looks like</h2>
-<img src="images/project-picture-1.png">
-<img src="images/project-picture-2.png">
-<img src="images/project-picture-3.png">
+<img src="components/images/project-picture-1.png">
+<img src="components/images/project-picture-2.png">
+<img src="components/images/project-picture-3.png">
 
 <h3> What's next </h3>
 As of now, it is just made up of HTML, CSS, Bootstrap and Javascript. I'll
